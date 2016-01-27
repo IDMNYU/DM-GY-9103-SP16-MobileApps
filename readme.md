@@ -20,7 +20,7 @@
 
 * Go to the [coursework git repository](https://github.com/IDMNYU/DM-GY-9103-SP16-CourseWork.git)
 * Create a fork of the repository under your own github account (button is currently on the upper right of the page)
-* On the page for your fork, copy the HTTPS Clone URL (should look like `https://github.com/YourGithubUsername/DM-GY-9103-SP16-CourseWork.git`)
+* On the page for your fork, copy the SSH Clone URL (should look like `git@github.com:/YourGithubUsername/DM-GY-9103-SP16-CourseWork.git`)
 * In your terminal, type the following commands (here's a basic [guide](https://mattwilcox.net/archives/a-very-basic-introduction-to-the-command-line-terminal-and-shell/) if you're just getting started):
 * `cd place/you/want/to/do/your/work`
 * `git clone https://github.com/YourGithubUsername/DM-GY-9103-SP16-CourseWork.git` (replace with your URL)
