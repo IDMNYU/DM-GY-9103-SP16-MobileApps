@@ -13,6 +13,7 @@
 * Join the class [slack team](https://nyu-ios.slack.com) (click on "create an account")
 * Please fill out [this google form](http://goo.gl/forms/AogDF1iW9l) with your contact information
 * Setup your git repository for textbook work.
+* Download [Xcode](https://itunes.apple.com/us/app/xcode/id497799835?mt=12) from the OS X App Store
 
 ### Setting up your git Repository
 (These are the instructions for setting up a public repository, which is recommended)
@@ -25,7 +26,7 @@
 * `git clone https://github.com/YourGithubUsername/DM-GY-9103-SP16-CourseWork.git` (replace with your URL)
 * `cd DM-GY-9103-SP16-CourseWork.git`
 
-* `git touch testfile`
+* `touch testfile`
 * `git add .`
 * `git commit -m 'adding a blank test file to make sure everything works'`
 * `git push origin master`
