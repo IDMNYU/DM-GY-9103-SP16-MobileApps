@@ -101,7 +101,7 @@ In teams of up to 2 people, build an app based on one of the prototypes you have
 ##### 2/16 	View Controllers
 * 5 - View Controllers
 * 6 - Programmatic Views
-* **Assignment Due: 2 App Ideas** (ungraded)
+* [**Assignment Due: 2 App Ideas**](app_idea_assignment.md) (ungraded)
 
 ##### 2/23 	Animations & UITableView
 * 8 - Controlling Animations
@@ -110,11 +110,11 @@ In teams of up to 2 people, build an app based on one of the prototypes you have
 ##### 3/1 	More UITableView
 * 10 - Editing UITableView
 * 11 - Subclassing UITableViewCell
-* **Assignment Due: App Prototype 1**
 
 ##### 3/8 Navigation Controller
 * 12 - Stack Views
 * 13 - UINavigationController
+* **Assignment Due: App Prototype 1**
 
 ##### 3/15 Spring Break 🎉
 
@@ -125,11 +125,11 @@ In teams of up to 2 people, build an app based on one of the prototypes you have
 ##### 3/29 	Advanced Interactions
 * 17 - Touch Events and UIResponder
 * 18 - UIGestureRecognizer and UIMenuController
-* **Assignment Due: App Prototype 2**
 
 ##### 4/5 	Web Services
 * 19 - Web Services
 * 20 - Collection Views
+* **Assignment Due: App Prototype 2**
 
 ##### 4/12 Advanced Saving Data
 * 21 - Core Data
