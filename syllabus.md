@@ -66,11 +66,11 @@ Useful resources:
 ### Course requirements 
 Students will be expected to complete the reading and the complete the accompanying coding examples (and push them up to a git repository) from the book before class. In addition, students will submit any questions from the chapter 24 hours before the class in which the readings are due, so that the instructor can review common issues during the first part of class.
 
-**App Prototype 1** - March 1, 2016 - 10%
+**App Prototype 1** - March 8, 2016 - 10%
 
 Make a non-functional prototype in order to test out one of your app ideas and get feedback from classmates and potential users. The medium you build in is up to you, but consider using something like Keynote or Powerpoint to be able to quickly work through possible interfaces. You should have at least three different screens of your app represented, but more may be required to describe how it would work.
 
-**App Prototype 2** - March 29, 2016 - 10%
+**App Prototype 2** - April 5, 2016 - 10%
 
 In teams of up to 2 people, pick one of your initial app prototypes (or choose a new idea) and make a new prototype to explore the idea further. This prototype should have all of your screens represented (4-5 screens or as agreed to with the instructor). In addition, this prototype should allow users to tap through most of the flows of the app.
 
